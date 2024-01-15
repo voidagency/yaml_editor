@@ -1,5 +1,5 @@
 {
-  "name": "b-khouy/yaml_editor",
+  "name": "voidagency/yaml_editor",
   "description": "Adds an editor for YAML configuration textareas",
   "type": "drupal-module",
   "homepage": "https://www.drupal.org/project/yaml_editor",
